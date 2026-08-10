@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard รายงานผล PLC และ STEAM Education",
+  "description": "ระบบติดตามและรายงานผลการสร้างชุมชนแห่งการเรียนรู้ทางวิชาชีพ (PLC) และการจัดการเรียนรู้เชิงรุก (STEAM Education) พร้อมระบบกรองข้อมูลและแสดงตัวอย่างไฟล์แนบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
